@@ -1,0 +1,221 @@
+.frame1-container {
+  min-height: 100vh;
+}
+.frame1-frame1 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame1-rectangle1 {
+  top: 98px;
+  left: 108px;
+  width: 978px;
+  height: 499px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-rectangle2 {
+  top: 202px;
+  left: 175px;
+  width: 181px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-text {
+  top: 276px;
+  left: 216px;
+  color: rgba(0, 0, 0, 1);
+  width: 112px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-rectangle3 {
+  top: 275px;
+  left: 328px;
+  width: 207px;
+  height: 33px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-text02 {
+  top: 348px;
+  left: 216px;
+  color: rgba(0, 0, 0, 1);
+  width: 113px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-rectangle5 {
+  top: 336px;
+  left: 328px;
+  width: 207px;
+  height: 35px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-ellipse1 {
+  top: 405px;
+  left: 265px;
+  width: 144px;
+  height: 49px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-text04 {
+  top: 472px;
+  left: 416px;
+  color: rgba(255, 255, 255, 1);
+  width: 46px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-rectangle6 {
+  top: 112px;
+  left: 175px;
+  width: 80px;
+  height: 62px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-comiccartoonringingtelephonevector70601581 {
+  top: 108px;
+  left: 175px;
+  width: 75px;
+  height: 85px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-rectangle7 {
+  top: 101px;
+  left: 255px;
+  width: 831px;
+  height: 117px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.frame1-text06 {
+  top: 112px;
+  left: 272px;
+  color: rgba(131, 28, 28, 1);
+  width: 784px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text07 {
+  font-weight: 700;
+}
+.frame1-text17 {
+  top: 419px;
+  left: 280px;
+  color: rgba(0, 0, 0, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.frame1-rectangle9 {
+  top: 512px;
+  left: 123px;
+  width: 978px;
+  height: 1px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-rectangle10 {
+  top: 469px;
+  left: 555px;
+  width: 556px;
+  height: 42px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-text19 {
+  top: 478px;
+  left: 563px;
+  color: rgba(0, 0, 0, 1);
+  width: 523px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-rectangle11 {
+  top: 500px;
+  left: 776px;
+  width: 30px;
+  height: 5px;
+  position: absolute;
+  border-color: transparent;
+}
